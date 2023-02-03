@@ -7,3 +7,15 @@ b{
     background-color: black;
     color: white;
 }
+html {
+    display:grid;
+    display:flex;
+    display:100%;
+    
+}
+body{
+    display:grid;
+    display:flex;
+    grid:flex;
+    grid:auto;
+}
