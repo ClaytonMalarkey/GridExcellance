@@ -1,21 +1,26 @@
-img[
-    width: 100%;
-    height: 100%;
-    align: center;
-]
-b{
+p{
+    color:black;
+    background-color: yellow;
+    box-shadow: white;
+}
+h1{
     background-color: black;
     color: white;
 }
+    
 html {
     display:grid;
     display:flex;
     display:100%;
-    
+    align:center;
 }
 body{
     display:grid;
     display:flex;
     grid:flex;
     grid:auto;
+}
+img{
+    height:100%;
+    width: 100%;
 }
